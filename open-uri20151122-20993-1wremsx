@@ -1,0 +1,747 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html dir='ltr' lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta name="Copyright" content="Unless otherwise stated on a page, the contents of this site, including but not limited to the text, graphics, sounds and scripts contained herein, were created by and are the sole property of Tracey R. Rich. The contents of this site may be reproduced for personal, educational or non-commercial use, but may NOT be reproduced on other websites."/>
+<meta name="description" content="Learn how to research your Jewish family tree"/>
+<meta name="keywords" content="family tree history genealogy judaism jewish judaica jewfaq Judaism 101 Judaic jewfaq Jewish Jew "/>
+<title>Judaism 101: Jewish Genealogy</title>
+<link rel="stylesheet" href="jewfaq2012.css"/>
+<link rel="Previous" href="whoisjew.htm"/>
+<link rel="Next" href="populatn.htm"/>
+<link rel="image_src" type="image/jpeg" href="http://www.jewfaq.org/graphics/md3.gif"/>
+</head>
+<body class='PeopleSection'>
+<table cellspacing="0" cellpadding="0" width="100%" class="banner sprite">
+<tr>
+<td align="left"><a href="index.shtml" class="logo sprite">Judaism 101</a></td>
+<td valign="middle" align="center" width="300"><form id="searchForm" action="search.shtml">
+<input type="text" name="Keywords" id="Keywd" size="25" class="SearchBox" onkeyup="showHint(event.keyCode)"/>
+<button type="submit"><span class="srch sprite">Search</span></button></form></td>
+<td align="right">
+<span class="navbar sprite">
+<a class="prev" href="whoisjew.htm">Back</a> | 
+<a class="toc" href="toc.htm">Site Map</a> | 
+<a class="next" href="populatn.htm">Next</a>
+</span>
+</td>
+</tr>
+</table>
+<table cellpadding="5" cellspacing="0" width="100%">
+<tr>
+<td class="nav bar" onmouseover="showMenu(0, this);" onmouseout="hideMenu();"><a href="index.htm" class="menulink">HOME</a></td>
+<td class="nav bar" onmouseover="showMenu(1, this);" onmouseout="hideMenu();"><a href="tocideas.htm" class="menulink">IDEAS</a></td>
+<td class="nav curr" onmouseover="showMenu(2, this);" onmouseout="hideMenu();"><a href="tocpeople.htm" class="menulink">PEOPLE</a></td>
+<td class="nav bar" onmouseover="showMenu(3, this);" onmouseout="hideMenu();"><a href="tocplaces.htm" class="menulink">PLACES</a></td>
+<td class="nav bar" onmouseover="showMenu(4, this);" onmouseout="hideMenu();"><a href="tocthings.htm" class="menulink">THINGS</a></td>
+<td class="nav bar" onmouseover="showMenu(5, this);" onmouseout="hideMenu();"><a href="tocwords.htm" class="menulink">WORDS</a></td>
+<td class="nav bar" onmouseover="showMenu(6, this);" onmouseout="hideMenu();"><a href="tocdeeds.htm" class="menulink">DEEDS</a></td>
+<td class="nav bar" onmouseover="showMenu(7, this);" onmouseout="hideMenu();"><a href="toctimes.htm" class="menulink">TIMES</a></td>
+<td class="nav bar" onmouseover="showMenu(8, this);" onmouseout="hideMenu();"><a href="tocevents.htm" class="menulink">LIFE CYCLE</a></td>
+<td class="nav bar" onmouseover="showMenu(9, this);" onmouseout="hideMenu();"><a href="tocreference.htm" class="menulink">REFERENCE</a></td>
+</tr>
+</table>
+<p/>
+<table cellpadding="10" cellspacing="0" class="PageText">
+<tr>
+<td valign="top" bgcolor="#FFDD99" width="180">
+<div class="Menu">
+<p class="L1">
+<b>Genealogy</b>
+</p>
+<table cellspacing="0" cellpadding="0" class="L3">
+<tr><td width="10"></td>
+<td><a href="#Myths">Genealogy Myths</a></td></tr>
+<tr><td width="10"></td>
+<td><a href="#Expectations">Expectations</a></td></tr>
+<tr><td width="10"></td>
+<td><a href="#Steps">Step-by-Step</a></td></tr>
+<tr><td width="10"></td>
+<td><a href="#Translation">Foreign Terminology</a></td></tr>
+<tr><td width="10"></td>
+<td><a href="#Resources">Resources</a></td></tr></table>
+<table><tr><td><i>See also:</i>
+<table cellspacing="0" cellpadding="0" class="L3">
+<tr><td width="10"></td>
+<td><a href="jnames.htm">Jewish Names</a></td></tr>
+</table>
+</td></tr></table>
+</div>
+<ul class="social">
+<li><a class="fb sprite" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.jewfaq.org%2Fgenealogy.htm&amp;t=Judaism%20101%3A%20Jewish%20Genealogy">Share on Facebook!</a></li>
+<li><a class="tweet sprite" href="http://twitter.com/home?status=Judaism%20101%3A%20Jewish%20Genealogy%20-%20http%3A%2F%2Fbit.ly%2F7egrZg">Tweet This!</a></li><li><a class="twfollow sprite" href="http://www.twitter.com/jewfaq">Follow JewFAQ on Twitter</a></li>
+</ul>
+</td>
+<td valign="top" bgcolor="#FFEECC" >
+<table cellpadding="20" align="center">
+<tr><td>
+<table width="100%"><tr valign="top"><td><h2>Jewish Genealogy
+</h2>
+<p class="Level">Level: Basic</p>
+</td><td>
+<div class="Summary">
+ &#149; Jewish genealogy isn't easy, but it isn't as hard as you might think<br/>
+ &#149; Many things you "know" about Jewish genealogy aren't true<br/>
+ &#149; With a systematic approach, you should be able to trace back to your immigrant ancestors or farther<br/>
+</div>
+</td></tr></table>
+
+<p>
+In the past, most Jews were not as interested in documenting their pedigrees as 
+gentiles were. In recent years, however, genealogy has become a popular hobby 
+for both Jews and gentiles, as evidenced by popular television shows like 
+"<a href="http://www.tlc.com/tv-shows/who-do-you-think-you-are/">Who Do You 
+Think You Are?</a>" Jewish genealogical research has also taken on an added 
+importance for those moving to <a href="defs/israel.htm" onclick="return ShowDef(this)" onmouseout="hideDef()">Israel</a>, because 
+the increasingly strict Israeli rabbinate requires higher levels of proof of 
+Jewish status. See the 2008 article in the New York Times magazine, 
+"<a href="http://www.nytimes.com/2008/03/02/magazine/02jewishness-t.html">How 
+Do You Prove You're a Jew?</a>" by Gershom Gorenberg. 
+</p>
+<p>
+I'm no expert on genealogy, but I have had a great deal of success over the 
+last several years researching my family tree and helping others research 
+theirs. From three Jewish parents, I have identified 22 of 24 possible 
+2nd-great-grandparents born in the mid 1800s; 24 out of 48 possible 
+3rd-great-grandparents born in the early 1800s, and a few ancestors back to the 
+early 1700s. This page will pass along some of the benefit of my experience. 
+</p>
+<h3 id="Myths">Debunking Jewish Genealogy Myths</h3>
+<p>
+Many people believe that Jewish genealogy is not possible because no one in the 
+family knows anything, names were changed at Ellis Island, records were 
+destroyed by Hitler, towns don't exist anymore, and so forth. The reality is, 
+these assumptions are not entirely true, and you can probably trace your family 
+tree one or two generations farther than you think you can. Let's look at some 
+of these genealogy myths. 
+</p>
+<dl>
+<dt><b>No one in my family knows anything</b> </dt>
+<dd>Have you actually asked them? You might be surprised by what people know. 
+Jews don't talk much about their family history, but that doesn't mean they 
+don't know anything. When I had to do a genealogy project for school in 4th 
+grade, my father told me the names of his grandparents, and I assumed that was 
+all he knew. As an adult, I had done quite a bit of research on my family tree 
+before I found out that my father knew much more: he had compiled a family tree 
+as a <a href="defs/barmitz.htm" onclick="return ShowDef(this)" onmouseout="hideDef()">bar mitzvah</a> project in the 1950s, while 
+many of the older relatives were still living. His tree included all eight of 
+his great-grandparents, some of his 2nd-great-grandparents and dozens of aunts 
+and uncles and cousins. In addition, my father's brother and cousin had done 
+ongoing research that I did not know about until long after I had started my 
+work. </dd>
+<dt>&#xa0; </dt>
+<dt><b>The name was changed at Ellis Island</b> </dt>
+<dd>This is one of the most widespread myths of genealogy, and many people 
+lovingly cling to their family's quirky name-change stories even when 
+confronted with the facts. Sorry to disappoint you, but nobody's name was 
+changed at Ellis Island. Lists of passengers were compiled at the port of 
+departure based on the name found in the ticket. The names given upon arrival 
+in the United States had to match the name on the passenger list and on the 
+ticket. But even if the name were recorded incorrectly at Ellis Island, it 
+wouldn't matter, because you didn't have to use the name that was recorded at 
+Ellis Island. In the days before social security cards, drivers' licenses, 
+credit cards and all the other identification we rely on today, it was 
+perfectly legal to change your name -- both first and last name -- any time you 
+wanted as long as you didn't do it to avoid payment of your debts. And that's 
+the bad news: your family member's name may have changed several times both 
+before and after Ellis Island. My great-great-grandmother was listed on 
+immigration records in 1883 as Babette Reich, but died in 1900 as Bertha Rich. 
+Her son Heinrich became Henry in America. My grandmother was identified as Lee 
+Moldow on her American marriage certificate, but she shows up in early census 
+records as Lena Moldofsky and in an Ellis Island record as Bluma Moldansky. Her 
+brother shows up as Irving, Isidore and Isak. Tracking down family information 
+when the names may have changed repeatedly can be quite challenging. </dd>
+<dt>&#xa0; </dt>
+<dt><b>The records were destroyed by Hitler; the towns don't exist anymore</b> </dt>
+<dd>
+<img class="WideRight" src="graphics/nazistamp.jpg" width="216" height="91" alt="Annahme des Zusatznamens Israel-Sara angezeigt!" title="Annahme des Zusatznamens Israel-Sara angezeigt!"/>During 
+the Holocaust, the Nazis killed people, burned synagogues and wiped out towns, 
+but they did not destroy records. Quite the contrary, they carefully preserved 
+synagogue records of births, deaths and marriages back to the 1840s... so they 
+could identify Jews for extermination. See this puzzling stamp, dated November 
+30, 1940, on my great-grandfather's 1878 Vienna Jewish birth record: Annahme 
+des Zusatznamens Israel-Sara angezeigt (assume of the other names that 
+Jew-Jewess is indicated). What is the meaning of this cryptic message? It is a 
+reminder to those inspecting the records that they should assume everyone 
+mentioned on the page is Jewish -- not just the parents and children, but also 
+the <a href="defs/rabbi.htm" onclick="return ShowDef(this)" onmouseout="hideDef()">rabbi</a>, <a href="defs/mohel.htm" onclick="return ShowDef(this)" onmouseout="hideDef()">mohel</a>, 
+midwife, witnesses, and so forth. Many of these European records, diligently 
+preserved by the Nazis, are indexed by 
+<a href="http://www.jewishgen.org">JewishGen</a>
+or are available from the <a href="https://familysearch.org">Family History 
+Library</a> of the Latter Day Saints (Mormons). Both of these resources are 
+discussed below. </dd>
+</dl>
+<h3 id="Expectations">Setting Proper Expectations</h3>
+<p>
+So we see that Jewish genealogy is not as impossible as we might think. But 
+it's not easy either. You are not likely to simply log onto 
+<a href="http://home.ancestry.com">Ancestry</a> (or even 
+<a href="http://www.jewishgen.org">JewishGen</a>) and find a comprehensive tree 
+listing your family back 300 years, as some gentiles do. But you should be able 
+to trace your family tree back to the point of immigration (usually between 
+1860 and 1910), and some American records may give you the names of the parents 
+of those immigrants. Finding records from overseas is a bit more challenging, 
+partly because of the language barrier (most Jews didn't come from 
+English-speaking countries) and partly because of the scattershot availability 
+of those records. 
+</p>
+<p>
+Keep in mind as you do your research that not everything you find will be 
+completely accurate. We live in a society today where every aspect of our lives 
+is so thoroughly documented that it is often hard for us to understand: our 
+ancestors didn't always know their own date of birth let alone their parents'. 
+They didn't necessarily know their mother's maiden name. Even if they knew 
+these things, the information may not have been recorded accurately. 
+</p>
+<h3 id="Steps">Step-by-Step: Recommendations for Genealogy Research</h3>
+<p>
+This is the approach I have taken in researching my own family trees and also 
+helping other people. It works for me. If you're not as obsessive-compulsive as 
+I am, you may find it easier to simply throw some names into an index and see 
+what sticks. My approach is intended to work from the present back, although 
+you may find that you need to skip around and revisit some of these steps as 
+you go along. Some of these sources are available free on the Internet; some 
+require only free registration; others require subscriptions or fees. I will 
+identify fee sites where necessary. 
+</p>
+<p>
+I would strongly suggest that you track not just your ancestors, but also all 
+of their siblings. The names of siblings will help you locate and verify other 
+records: if the family changed names between censuses (or if the census taker 
+spelled the name incorrectly), you can be sure it is the right family if there 
+are the right number of people with the same or similar given names. In fact, 
+you may find it very rewarding to track down all of the descendants of your 
+ancestors. You'll get a lot more results, and you'll end up finding cousins you 
+never knew instead of European gravestones! I've been tracing one branch of my 
+family tree for about 10 years on and off, and I've tracked it back to a 
+4th-great-grandfather born in Hungary in 1785. I'm rather proud of that, but 
+I'm more proud of having identified more than 1000 of his descendants in 
+Hungary, the United States and South America! 
+</p>
+<dl>
+<dt><b>1. Talk to everyone in your family</b> </dt>
+<dd>I'm not going to belabor this rather obvious point any more than necessary, 
+but suffice it to say that, as I said above, your family members may know more 
+than you realize. It's a lot easier to find documents confirming what they know 
+and building on it than it is to start from scratch. Talk to them repeatedly in 
+the course of your research: you may find that some of what you discover 
+triggers their memories. I was looking at marriage indexes in New York for my 
+grandparents and found two possibilities. I asked my mother when her parents' 
+anniversary was, and she insisted that she had no idea. "October or April?" I 
+asked. "Oh! Yes, April, of course!" </dd>
+<dt>&#xa0; </dt>
+<dt><b>2. Social Security Death Index (SSDI)</b> </dt>
+<dd>This used to be widely available for free, but concerns about identity 
+theft have made this database less widely available and less useful. Most 
+sources no longer include deaths after March 2014. The SSDI provides valuable 
+information about most people who died in the United States after 1970 (and 
+many who died before that). If they had a social security number, they should 
+be in there. The SSDI gives their dates of birth and death, their last known 
+residence, and the place where they were living when they got their social 
+security number. Ancestry.com (a subscription site) now has a 
+<a href="http://search.ancestry.com/search/db.aspx?dbid=60901">Social Security 
+Applications and Claims Index</a>, which gives incredibly useful information 
+from Social Security records: date and place of birth, father's name, mother's 
+maiden name, and name changes (particularly useful for women who may have 
+remarried).</dd>
+<dd>&#xa0; </dd>
+<dt><b>3. Census Records</b> </dt>
+<dd>Censuses in the United States have been taken every ten years from 1790 to 
+the present. Census records from 1790 to 1940 (except 1890) are available 
+online. Starting in 1850, they identify all members of the household (earlier 
+years just listed the head of household and a count of househould members in 
+various categories), and starting in 1880, they specify the relationship of 
+each household member to the head of household (wife, child, mother-in-law, or 
+just boarder or servant). Censuses are available for free from 
+<a href="https://familysearch.org">FamilySearch</a>, the LDS Church's genealogy 
+website, and also on subscription services like 
+<a href="http://home.ancestry.com">Ancestry</a>. Chances are, you have 
+information about <i>someone</i> who was alive in the U.S. in 1940; if you can 
+find them in the census (and knowing their date of birth from the SSDI will 
+help), you will find their parents, siblings, children, and maybe even 
+grandparents. Census records can give you names, family relationships, age, 
+place of birth, occupation, year of immigration, an approximate date of 
+marriage, and other things. Of course, the information is only as accurate as 
+the knowledge of the person interviewed and the person's ability to communicate 
+with the census taker, but if you get several years of census records, a 
+consensus will develop. </dd>
+<dt>&#xa0; </dt>
+<dd>Remember that names can change over time. You may need to use some 
+creativity in searching. It helps to keep track of the names and ages of 
+everyone in the household, siblings as well as direct ancestors. There may be 
+several Harry Brodskys in the census, but how many of them have twin children 
+named Samuel and Beatrice? If you have trouble finding someone, try assuming 
+that one of the facts you know is wrong. Can't find the right Harry Brodsky? 
+Try just searching for just Brodsky with his year and place of birth, or just 
+Harry with his year and place of birth. Also try assuming that part of the 
+surname (usually the end) may have been cut off. </dd>
+<dt>&#xa0; </dt>
+<dt><b>4. Birth, Marriage and Death Records</b> </dt>
+<dd>If your ancestors lived in New York City (and many Jewish ancestors did), 
+the <a href="http://italiangen.org">Italian Genealogical Group</a> has created 
+incredible databases indexing New York City birth, marriage and death records. 
+They do not have any of the actual records, but it will give you precise dates 
+if you don't know them (or confirm dates if you do know them). The marriage 
+index can also get you the bride's maiden name (search for the groom, click the 
+link to the bride, and it will have her maiden name). </dd>
+<dt>&#xa0;&#xa0; </dt>
+<dd>The index also gives you the certificate numbers, which allow you to order 
+a copy of the original certificate from the 
+<a href="http://www.nyc.gov/html/records/html/archives/genealogy.shtml">New 
+York Municipal Archives</a>. It's not free (about $15 per certificate), but I 
+think it's worth every penny. New York marriage records contain the names of 
+the parents of both bride and groom, including maiden names: four additional 
+names that you may not have had, a whole generation of ancestors who may never 
+have come to America. Death records also have parents' names, though of course 
+this would only be two parents, and the accuracy of the information is only as 
+good as the knowledge of the informant. Birth records give the mother's maiden 
+name. </dd>
+<dt>&#xa0;&#xa0; </dt>
+<dd>You may also find useful information in birth, marriage and death notices 
+in the newspaper. In addition to the date of birth, marriage or death, these 
+notices may give you the names of relatives. The parents of the child, bride or 
+groom are routinely mentioned in birth and marriage notices; the names of 
+surviving parents, siblings or children are commonly mentioned in death 
+notices. The age of the decedent is also commonly mentioned in death notices, 
+which gives an approximate date of birth. 
+<a href="http://www.legacy.com">Legacy.com</a> is an excellent source for 
+obituaries since about 2000. If your ancestors lived in a city with a large 
+Jewish community, the notices may be included in the local Jewish paper, like 
+Philadelphia's <a href="http://www.jewishexponent.com">Jewish Exponent</a> 
+(some of which is indexed by 
+<a href="http://www.jewishgen.org/databases/USA/">JewishGen</a>) or Columbus's 
+<a href="http://www.ohiomemory.org/cdm/landingpage/collection/ojc">Ohio Jewish 
+Chronicle</a> (all issues from 1922-1994 are online and searchable for free). 
+If your ancestors lived in New York, these notices may be available in the New 
+York Times, which has an excellent 
+<a href="http://query.nytimes.com/search/sitesearch">archive search tool</a> 
+for anything dating back to 1851. Some other newspapers also have their B/M/D 
+notices searchable online. Ancestry has birth, marriage and death announcements 
+from the NYT and a few other newspapers from 1851 to 2003, but their index of 
+those notices is atrocious. Other good sources of news items are 
+<a href="http://www.genealogybank.com/">GenealogyBank</a> or 
+<a href="http://newspaperarchive.com">NewspaperARCHIVE</a>, which which have 
+outstanding collections of local newspapers, but they are not free. These 
+sources have very different collections.</dd>
+<dt>&#xa0; </dt>
+<dt><b>5. Immigration and Naturalization Records</b> </dt>
+<dd>Early immigration records (before 1900 or so) don't have much information, 
+but later ones can tell you a lot of useful things. 
+<a href="http://www.libertyellisfoundation.org/">Ellis Island</a> has a free 
+search tool for their records, but you may be surprised to learn that not 
+everybody came through Ellis Island! Ellis Island opened in 1892, so if your 
+ancestor came over before that time, you'll have to look elsewhere. Earlier 
+immigrants to New York came through 
+<a href="http://www.castlegarden.org">Castle Garden</a>, which also has a free 
+searchable database. Other Jewish immigrants came through Philadelphia, 
+Baltimore or other ports that do not have comprehensive search tools freely 
+available. Many of these records can be found through subscription services 
+like <a href="http://home.ancestry.com">Ancestry</a>. </dd>
+<dt>&#xa0; </dt>
+<dd>Early naturalization records (before 1900 or so) do not contain much 
+information, but later naturalization records contain one of the most valuable 
+pieces of information, and one of the hardest to find: the town of birth 
+overseas. Most other kinds of records simply give the country of birth, which 
+may not be very useful because of frequent border changes. Naturalization 
+records are supposed to have the town of birth (though my great-uncle put his 
+"town" of birth as Bessarabia, a country). Many naturalization records can be 
+found on <a href="http://home.ancestry.com">Ancestry</a>. </dd>
+<dt>&#xa0; </dt>
+<dt><b>5. Overseas Records</b> </dt>
+<dd>If you've gotten this far, you may be ready to start looking for your 
+immigrant ancestors in their country of origin. 
+<a href="http://www.jewishgen.org">JewishGen</a> has transcribed an enormous 
+number of specifically Jewish records, both from overseas and from the United 
+States. Their searches include a special Soundex (sounds like) strategy that 
+takes into account the longer names that are common among Jews and the 
+pronunciations of Jewish names. The site is organized by country of origin, but 
+the creators of the site are aware of the flexibility of borders, and you will 
+find overlap. For example, their Romanian search includes many of the same 
+databases as their Ukraine search, because the boundaries shifted over time. Go 
+to the <a href="http://www.jewishgen.org/databases">Complete List of 
+Databases</a> and find the country you are interested in, then search the 
+database. You will need a free registration to look at the transcribed records. 
+An annual donation to JewishGen will give you enhanced search capabilities. </dd>
+<dt>&#xa0; </dt>
+<dd>If your ancestors are from Vienna, 
+<a href="http://www.genteam.at">GenTeam.at</a> (free with registration) has an 
+excellent and growing collection of Austrian records, most notably an index to 
+the Vienna Matrikel (Jewish register of births, marriages and deaths). The 
+information transcribed is incomplete, but most of the Vienna Matrikel is 
+available on microfilm from the LDS Church (see below), and this index will 
+help you find out what records might be on those microfilms. I found dozens of 
+useful records here. </dd>
+<dt>&#xa0; </dt>
+<dd>The LDS Church has an increasing number of overseas records available on 
+their <a href="https://familysearch.org">Family Search</a> website, so you may 
+want to check that out too. Many of the overseas records they have are just 
+browsable images, with no index.</dd>
+<dt>&#xa0; </dt>
+<dd>The LDS Church also has an enormous collection of microfilms available that 
+can be borrowed from their headquarters in Utah for use in your local family 
+history center at an LDS church. For a minimal fee ($7.50), they will ship the 
+microfilm to your local family history center for you to use for up to a month, 
+then ship it back. It is in a church, but you usually enter through the back 
+entrance, and nobody tries to convert you or witness to you. They're just 
+interested in genealogy, same as you. My local family history center is 
+equipped with a microfilm scanner that allows me to get high-quality scanned 
+images from the films instead of printouts, though I gather that not all family 
+history centers are so well-equipped. You can find the microfilms in their 
+<a href="https://familysearch.org/catalog-search">catalog</a>. Here is how you 
+find Jewish records in their catalog: 
+<ol>
+<li>Search by Place. Use the most specific place you know, preferably a town 
+name. Enter it in the original language: for example, enter Wien, not Vienna. 
+If you use the English name, it will cross-reference you. If you know of 
+multiple names for the town, check each one. Click the correct town name in the 
+list of matches that appears. 
+<ol type="a">
+<li>If you don't find the specific town, try searching for the name of a 
+broader area, like the county or district </li>
+</ol>
+</li>
+<li>You will see a list of topics. Ideally, you want to find the topic Jewish 
+Records. If there is no Jewish Records topic, look for a Civil Registration or 
+a Vital Records topic. In Germany and some other European countries, Jews were 
+included in the same registries as gentiles. Click the topic. 
+<ol type="a">
+<li>If you don't find any Jewish records in the specific town, try changing to 
+a broader area taking out the town name, leaving only the country and district.</li>
+</ol>
+</li>
+<li>You will see a list of titles that match the topic. Click the title for 
+more information. </li>
+<li>You will see some additional information about that title, including 
+whether the title is already available online (microfilms are being added to 
+the online collection every week). It will also tell you the language the 
+source is written in. You can probably figure out records written in Western 
+European languages; Russian or Hebrew will be a lot more difficult if you're 
+not comfortable with the alphabet. Early German records can also be difficult 
+because they used a slightly different alphabet. </li>
+<li>Scroll down to the Film Notes section to find the exact film you want. Many 
+titles contain several different microfilms within them. Film Notes will tell 
+you what film and what item on that film holds the year and type of record you 
+want.</li>
+<li>Click the film number to order the film. You will need an account to make 
+an order, and you will need to know your local family history center, where the 
+film will be sent for your use. You can locate a family history center 
+<a href="https://familysearch.org/locations">here</a>. The film may take a few 
+weeks to arrive. </li>
+</ol>
+</dd>
+<dt>&#xa0;</dt>
+<dt><b>6. Other Record Types</b> </dt>
+<dd>Of course, there are many other kinds of records that may contain 
+interesting or useful information. For example, I have gotten a lot of useful 
+information from WWI and WWII draft registration and enlistment records on 
+<a href="http://home.ancestry.com">Ancestry</a>. These records tell where and 
+when the person was born (sometimes giving the city), whether the person was 
+married (which can help you narrow down the date when your ancestor married), 
+and have other useful information. The mere existence of a registration can 
+confirm that a person was still living in 1942, which is not always easy to 
+deetermine. The WWII draft registration on Ancestry is the "Old Man's 
+Registration," which has men born between 1877 and 1897, which often includes 
+your immigrant ancestors, and it includes the town of birth, which may be hard 
+to find elsewhere.</dd>
+<dt>&#xa0;</dt>
+<dd>Travel records from Ancestry's ship manifests collection can also be 
+helpful in determining the date a person was born or married. Older travel 
+records often included a person's marital status, address and date of birth. 
+You may even be able to find your ancestor's passport on Ancestry, which 
+sometimes contains a photograph.</dd>
+</dl>
+<h3 id="Translation">Translation of Foreign Genealogical Terms</h3>
+<p>
+Here are some useful genealogical terms in German and Hungarian, which are the 
+languages of most of the records I have worked with. You may find these terms 
+as column headings in metrical books, the most commonly available source of 
+foreign Jewish records. For additional translations and additional languages, 
+try <a href="https://translate.google.com/">Google Translate</a>. 
+</p>
+<table border="1" cellpadding="5">
+<tr>
+<th>English </th>
+<th>German </th>
+<th>Hungarian </th>
+</tr>
+<tr>
+<td>
+Name 
+</td>
+<td>
+Namen 
+</td>
+<td>
+Neve 
+</td>
+</tr>
+<tr>
+<td>
+Age 
+</td>
+<td>
+Alt 
+</td>
+<td>
+Kora, &Eacute;letkora 
+</td>
+</tr>
+<tr>
+<td>
+Date 
+</td>
+<td>
+Datum 
+</td>
+<td>
+Keltje, Ideje 
+</td>
+</tr>
+<tr>
+<td>
+Year 
+</td>
+<td>
+Jahr 
+</td>
+<td>
+&Eacute;v 
+</td>
+</tr>
+<tr>
+<td>
+Month 
+</td>
+<td>
+Monat 
+</td>
+<td>
+H&oacute;, H&oacute;nap 
+</td>
+</tr>
+<tr>
+<td>
+Day 
+</td>
+<td>
+Tag 
+</td>
+<td>
+Nap 
+</td>
+</tr>
+<tr>
+<td>
+Birth 
+</td>
+<td>
+Geburt 
+</td>
+<td>
+Sz&uuml;let&eacute;si 
+</td>
+</tr>
+<tr>
+<td>
+Child 
+</td>
+<td>
+Kind 
+</td>
+<td>
+Gyermek 
+</td>
+</tr>
+<tr>
+<td>
+Father 
+</td>
+<td>
+Vater 
+</td>
+<td>
+Atya 
+</td>
+</tr>
+<tr>
+<td>
+Mother 
+</td>
+<td>
+Mutter 
+</td>
+<td>
+Anya 
+</td>
+</tr>
+<tr>
+<td>
+Parents 
+</td>
+<td>
+Eltern 
+</td>
+<td>
+Sz&uuml;leinek, Sz&uuml;l&otilde;k 
+</td>
+</tr>
+<tr>
+<td>
+Marriage 
+</td>
+<td>
+Heiraten, Trauung 
+</td>
+<td>
+H&aacute;zasok, Esket&eacute;si 
+</td>
+</tr>
+<tr>
+<td>
+Bride 
+</td>
+<td>
+Braut 
+</td>
+<td>
+M&aacute;tka 
+</td>
+</tr>
+<tr>
+<td>
+Groom 
+</td>
+<td>
+Br&auml;utigam 
+</td>
+<td>
+V&ouml;leg&eacute;ny 
+</td>
+</tr>
+<tr>
+<td>
+Death 
+</td>
+<td>
+Sterbens, Tod 
+</td>
+<td>
+Hal&aacute;loz&aacute;s 
+</td>
+</tr>
+<tr>
+<td>
+Decedent 
+</td>
+<td>
+Verstorbenen 
+</td>
+<td>
+Halott 
+</td>
+</tr>
+</table>
+<h3 id="Resources">Jewish and General Genealogy Resources</h3>
+<p>
+Here are links to some sites I have found useful for Jewish genealogy: 
+</p>
+<ul>
+<li><a href="http://www.jewishgen.org">JewishGen</a>: <i>THE</i> site for 
+Jewish genealogy, with a wealth of transcribed Jewish records (both American 
+and European) and lots of useful advice and information </li>
+<li><a href="http://www.avotaynu.com">Avotaynu</a>: A Jewish genealogy 
+newsletter and publisher, creating many useful books to help with your 
+research. They have a weekly email for $12 per year that contains useful 
+information about new Jewish resources available on the Internet </li>
+<li><a href="http://italiangen.org">Italian Genealogy Group</a>: Not a 
+specifically Jewish source, obviously, but their extensive indexes of New York 
+City birth, marriage, death and naturalization records, all available for free, 
+are extremely valuable to Jewish researchers, who often have ancestors in New 
+York </li>
+<li><a href="http://www.libertyellisfoundation.org/">Ellis Island</a> and 
+<a href="http://www.castlegarden.org">Castle Garden</a>: The two primary ports 
+of immigration have databases of their records available online for free </li>
+<li><a href="https://familysearch.org">FamilySearch</a>: The LDS church is 
+working on putting all of their enormous collection of genealogical microfilms 
+online for free. For example, they have Philadelphia marriage indexes and death 
+records, which are not available anywhere else online. Registration is required 
+to view the actual records in some cases.</li>
+<li><a href="https://familysearch.org/catalog-search">LDS Church Family History 
+Library</a>: If FamilySearch hasn't put the records you need online yet, and 
+you're willing to step away from your computer to work in a library, the LDS 
+Church has an enormous collection of microfilms of records from all over the 
+world. For a $7.50 fee, you can order them delivered to your local family 
+history center, where you can use them for a month. Many of these microfilms 
+have already been indexed and put on the 
+<a href="https://familysearch.org">FamilySearch site</a> for free, but some are 
+still only available in microfilm format. </li>
+<li><a href="http://home.ancestry.com">Ancestry</a>: The largest genealogical 
+source on the web. They don't have much that is specifically of interest to 
+Jewish researchers (except the material that they obtained from JewishGen), but 
+they have an enormous amount of American material that will get you from the 
+present day back to your immigrant ancestors, and their immigration records. 
+This is a subscription service, and a rather expensive one, so you'll want to 
+do as much as you can for free before you try it, and you may want to start 
+with one of their short-term 
+<a href="http://www.ancestry.com/cs/offers/freetrial?ftlp=1">free trial 
+subscriptions</a> </li>
+<li><a href="http://www.stephenmorse.org">Stephen Morse's One Step Portal</a>: 
+A wealth of tools that make it easier to locate records in many of the sources 
+of interest to Jews. He doesn't have any records of his own; he merely provides 
+enhanced searching capabilities for other websites that exist, including both 
+free websites and subscription sites </li>
+<li>Several New York area Jewish cemeteries have online interment searches, 
+including: 
+<a href="http://www.mountararatcemetery.com/search.asp?type=interment">Mount 
+Ararat</a>, 
+<a href="http://www.mountcarmelcemetery.com/search.asp?type=interment">Mount 
+Carmel</a>, <a href="http://www.mounthebroncemetery.com/search.asp">Mount 
+Hebron</a>, <a href="http://www.mountjudah.com/search.asp?type=interment">Mount 
+Judah</a>, <a href="http://www.mountlebanoncemetery.com/search">Mount 
+Lebanon</a>, <a href="http://www.mountmoriahcemeteryofnewjersey.org">Mount 
+Moriah</a>, and <a href="http://www.mountzioncemetery.com/search.asp">Mount 
+Zion</a>. This will give you an approximate date of death (assume death was 
+within a week before burial, unless the body was moved). You may also find 
+other possible family members by searching for the location of the graves: 
+family members may be buried together. </li>
+<li><a href="https://www.fold3.com/">Fold3</a>, formerly known as Footnote: 
+This used to be a general source of American records, but was bought out by 
+Ancestry.com and changed its focus to military records. Its non-military 
+information is now available in Ancestry. I'm not sure I would recommend this 
+any more, unless you have a specific interest in military records.</li>
+</ul>
+<p>
+I have also used the genealogy sites <a href="http://www.myheritage.com/">My 
+Heritage</a> and <a href="http://www.mocavo.com/">Mocavo</a>, though I didn't 
+find much there that wasn't available in other sources. Your experience may vary. 
+</p>
+<hr/>
+<center>
+<i>&copy; Copyright 5770-5776 (2009-2015), Tracey R Rich</i><br/>
+<font size="-1">If you appreciate the many years of work I have put into this site, 
+show your appreciation by <i>linking</i> to this page, not copying it to your site.
+I can't correct my mistakes or add new material if it's on your site. <a href="copyright.htm">Click Here</a> for more details.</font>
+</center>
+<p class="FooterAll">
+<a href="index.shtml">Home</a> | <a href="nu.htm">What's Nu?</a> | <a href="current.shtml">Current Calendar</a> | <a href="author.htm">About the Author</a> | <a href="glossary.htm">Glossary and Index</a> | 
+<a href="m/genealogy.htm">Mobile Site</a>
+</p>
+</td></tr></table>
+</td></tr></table>
+<br/>
+<center><table width="95%"><tr>
+<td width="180"></td>
+<td align="center">
+<span class="navbar sprite">
+<a class="prev" href="whoisjew.htm">Back</a> | 
+<a class="toc" href="toc.htm">Site Map</a> | 
+<a class="next" href="populatn.htm">Next</a>
+</span>
+</td>
+</tr></table></center>
+<div id="Pulldown" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';"></div>
+<div id="DefFrame" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';"></div>
+<div id="Hint"></div>
+<script type="text/javascript" src="menus.js"></script>
+</body>
+</html>
